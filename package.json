@@ -1,6 +1,6 @@
 {
   "name": "cordova-plugin-jj2000",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Cordova Plugin JJ2000",
   "main": "./www/jj2000.js",
   "cordova": {
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Gridler/cordova-plugin-jj2000.git"
+    "url": "git+https://github.com/bpiservices/cordova-plugin-jj2000.git"
   },
   "keywords": [
     "cordova",
@@ -22,7 +22,7 @@
   "author": "Gridler <developer@gridler.com>",
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/Gridler/cordova-plugin-jj2000/issues"
+    "url": "https://github.com/bpiservices/cordova-plugin-jj2000/issues"
   },
-  "homepage": "https://github.com/Gridler/cordova-plugin-jj2000#readme"
+  "homepage": "https://github.com/bpiservices/cordova-plugin-jj2000#readme"
 }

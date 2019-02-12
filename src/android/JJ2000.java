@@ -13,7 +13,7 @@ import java.io.IOException;
 import java.io.InputStream;
 
 public class JJ2000 extends CordovaPlugin {
-    private final static String TAG = GridleriMatch.class.getSimpleName();
+    private final static String TAG = JJ2000.class.getSimpleName();
 
     @Override
     public boolean execute(String action, JSONArray args,
