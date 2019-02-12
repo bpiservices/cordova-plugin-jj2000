@@ -1,6 +1,6 @@
 {
   "name": "cordova-plugin-jj2000",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Cordova Plugin JJ2000",
   "main": "./www/jj2000.js",
   "cordova": {
@@ -15,8 +15,8 @@
   },
   "keywords": [
     "cordova",
-    "bluetooth",
-    "ble",
+    "JJ2000",
+    "JPEG2000",
     "ecosystem:cordova"
   ],
   "author": "Gridler <developer@gridler.com>",

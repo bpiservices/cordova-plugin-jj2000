@@ -1,5 +1,5 @@
 # cordova-plugin-jj2000
-Cordova plugin for JJ2000.
+Cordova plugin for converting JPEG 2000 images.
 
 ## Install
 Install plugin:
@@ -13,7 +13,7 @@ jj2000.convertJJ2000(rawImageBytes, function(photo) {
     var image = new Image();
     image.src = 'data:image/jpg;base64,' + photo;
     document.body.appendChild(image);
-    }, function(error) {
-        alert('photo conversion failed');
-    });
+}, function(error) {
+    alert('photo conversion failed');
+});
 ```
