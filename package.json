@@ -1,6 +1,6 @@
 {
   "name": "cordova-plugin-jj2000",
-  "version": "1.0.3",
+  "version": "1.0.5",
   "description": "Cordova Plugin JJ2000",
   "main": "./www/jj2000.js",
   "cordova": {
