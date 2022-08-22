@@ -6,7 +6,7 @@ repositories{
 }
 
 dependencies {
-   compile(name:'jp2-android-1.0', ext:'aar')
+   implementation(name:'jp2-android-1.0', ext:'aar')
 }
 
 android {
